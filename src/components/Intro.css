@@ -1,0 +1,19 @@
+.tit1 {
+    font-size: 50px;
+    text-align: center;
+    
+}
+.tit2 {
+    font-size: 30px;
+}
+.swiper {
+    height: 100vh;
+
+}
+.swiper-slide {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
